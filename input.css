@@ -3,3 +3,7 @@
 @theme {
     --color-lightPink: hsl(4, 54%, 65%);
 }
+
+.footer-link {
+    @apply text-gray-500 hover:underline;
+}
